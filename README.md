@@ -1,4 +1,5 @@
-# Super-Market-System: [ University Project during System and Design analysis course ] 
+# Super-Market-System: 
+####[ University Project during System and Design analysis course ] 
 ## Worker module of supermarket system. 
 ____
 
